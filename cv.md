@@ -12,3 +12,10 @@ Hello, I am 22 years old and I am self-taught web development. My goal is to bec
 * Flex
 * Grid 
 * Git
+## Code example ##
+``` 
+function multiply(a, b){
+    return a * b;
+};
+multiply(1, 5);
+```
