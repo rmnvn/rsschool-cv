@@ -22,3 +22,7 @@ multiply(1, 5);
 ## Work experience ## 
 I do not have work experience.
 Passed courses from HTML Academy and Freecodecamp
+## Education ##
+Russian Academy of National Economy and Public Administration under the President of the Russian Federation (RANHIGS)  
+Specialty - Jurisprudence.  
+Did not graduate.  
