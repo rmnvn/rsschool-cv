@@ -26,3 +26,5 @@ Passed courses from HTML Academy and Freecodecamp
 Russian Academy of National Economy and Public Administration under the President of the Russian Federation (RANHIGS)  
 Specialty - Jurisprudence.  
 Did not graduate.  
+## Languages ## 
+* English - A2 (Elementary)
