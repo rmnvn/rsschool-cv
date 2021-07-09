@@ -19,3 +19,6 @@ function multiply(a, b){
 };
 multiply(1, 5);
 ```
+## Work experience ## 
+I do not have work experience.
+Passed courses from HTML Academy and Freecodecamp
