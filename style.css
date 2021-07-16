@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #ebebf2;
+} 
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px 0 5px 0;
+    background-color: var(--main-color);
+} 
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
