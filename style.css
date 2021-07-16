@@ -17,6 +17,7 @@
     align-items: center;
     padding: 5px 0 5px 0;
     background-color: var(--main-color);
+    border-radius: 3px;
 } 
 
 li {
@@ -32,3 +33,7 @@ main {
     padding: 0 8%;
 }
 
+pre {
+    background-color: #eee;
+    border-radius: 3px;
+}
