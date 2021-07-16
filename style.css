@@ -29,11 +29,20 @@ a {
     text-decoration: none;
 }
 
-main {
+main,
+footer {
     padding: 0 8%;
 }
 
 pre {
     background-color: #eee;
+    border-radius: 3px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: var(--main-color);
     border-radius: 3px;
 }
